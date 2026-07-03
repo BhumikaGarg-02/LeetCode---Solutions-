@@ -1,7 +1,7 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         mpp[0]=1;
         int presum=0 ;
         int cnt=0;
