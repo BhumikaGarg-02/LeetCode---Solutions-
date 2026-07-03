@@ -5,6 +5,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
