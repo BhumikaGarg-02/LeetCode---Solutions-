@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | [0014-longest-common-prefix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
