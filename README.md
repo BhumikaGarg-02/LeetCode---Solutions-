@@ -31,12 +31,14 @@
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +46,7 @@
 | [0013-roman-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +60,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
