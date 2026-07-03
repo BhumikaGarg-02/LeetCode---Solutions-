@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
