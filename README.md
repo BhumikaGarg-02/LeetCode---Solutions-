@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -84,6 +85,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
