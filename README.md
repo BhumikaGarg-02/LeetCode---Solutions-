@@ -37,6 +37,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
@@ -69,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
@@ -138,5 +140,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
