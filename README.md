@@ -38,6 +38,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -133,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
