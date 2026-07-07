@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
