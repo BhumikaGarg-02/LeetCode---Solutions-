@@ -4,20 +4,21 @@ public:
         if(nums.size()==0){
             return 0 ;
         }
-        sort(nums.begin(),nums.end());
-        int cnt=0;
+        unordered_set<int>st;
         int longest=1;
-        int lastsmaller=INT_MIN;
         for(int i=0 ; i<nums.size();i++){
-            if(nums[i]-1==lastsmaller){
-                cnt++;
-                lastsmaller=nums[i];
+            st.insert(nums[i]);
+        }
+        for(auto it:st){
+            if(st.find(it-1)==st.end()){
+                int cnt=1;
+                int x=it;
+                while(st.find(x+1)!=st.end()){
+                    cnt++;
+                    x++;
+                }
+                longest=max(cnt,longest);
             }
-            else if(nums[i]!=lastsmaller){
-                lastsmaller=nums[i];
-                cnt=1;
-            }
-            longest=max(cnt,longest) ;
         }
         return longest ;
     }
