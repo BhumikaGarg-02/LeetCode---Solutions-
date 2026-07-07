@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0162-find-peak-element/) | Medium |
@@ -62,6 +63,7 @@
 | [0001-two-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -148,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0054-spiral-matrix/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
