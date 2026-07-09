@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
@@ -106,6 +107,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
@@ -130,6 +132,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
