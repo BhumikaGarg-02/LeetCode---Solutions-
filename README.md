@@ -27,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
@@ -83,6 +84,7 @@
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
@@ -155,6 +157,7 @@
 | [0088-merge-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
