@@ -1,18 +1,4 @@
 class Solution {
-private:
-    bool possible(vector<int>& bloomDay, int m, int k,int day){
-        int cnt=0;
-        int nob=0;
-        for(int i=0;i<bloomDay.size();i++){
-            if(bloomDay[i]<=day){cnt++;}
-            else{
-                nob += cnt/k;
-                cnt=0;
-            }
-        }
-        nob+=cnt/k;
-        return nob>=m;
-    }
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
          if(bloomDay.size()<(long long)m*k){return -1;}
@@ -26,7 +12,17 @@ public:
         int ans=-1;
         while(l<=h){
             int mid=(l+h)/2;
-            if(possible(bloomDay,m,k,mid)==true){
+            int cnt=0;
+            int nob=0;
+            for(int i=0;i<bloomDay.size();i++){
+                if(bloomDay[i]<=mid){cnt++;}
+                else{
+                    nob += cnt/k;
+                    cnt=0;
+                }
+            }
+            nob+=cnt/k;
+            if(nob>=m){
                 ans=mid;
                 h=mid-1;
             }
