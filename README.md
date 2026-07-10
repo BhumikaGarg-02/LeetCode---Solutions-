@@ -27,11 +27,13 @@
 | [0125-valid-palindrome](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0796-rotate-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
