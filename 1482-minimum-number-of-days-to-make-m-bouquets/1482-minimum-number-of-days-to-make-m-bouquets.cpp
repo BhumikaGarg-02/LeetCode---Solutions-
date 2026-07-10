@@ -28,6 +28,7 @@ public:
         vector<int> v=mxmn(bloomDay);
         int l=v[0],h=v[1];
         int ans=-1;
+        if(bloomDay.size()<(long long)m*k){return -1;}
         while(l<=h){
             int mid=(l+h)/2;
             if(possible(bloomDay,m,k,mid)==true){
