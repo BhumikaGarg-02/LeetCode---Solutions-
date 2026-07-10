@@ -11,7 +11,7 @@ public:
             int mid=(l+high)/2;
             long long hrs=0;
             for(int i=0;i<piles.size();i++){
-                hrs+=ceil((double)piles[i]/(double)mid);
+                hrs+=(piles[i] + mid - 1) / mid;
             }
             if(hrs<=h){
                 ans=mid;
