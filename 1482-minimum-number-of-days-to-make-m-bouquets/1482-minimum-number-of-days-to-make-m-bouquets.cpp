@@ -9,7 +9,6 @@ public:
             else if(bloomDay[i]<mini){mini=bloomDay[i];}
         }
         int l=mini,h=maxi;
-        int ans=-1;
         while(l<=h){
             int mid=(l+h)/2;
             int cnt=0;
@@ -22,14 +21,9 @@ public:
                 }
             }
             nob+=cnt/k;
-            if(nob>=m){
-                ans=mid;
-                h=mid-1;
-            }
-            else{
-                l=mid+1;
-            }
+            if(nob>=m){ h=mid-1;}
+            else{ l=mid+1; }
         }
-        return ans;
+        return l;
     }
 };
