@@ -15,14 +15,16 @@ public:
             maxi=max(maxi,nums[i]);
         }
         int l=1,h=maxi;
+        int ans=h;
         while(l<=h){
             int mid=(l+h)/2;
             int sum=possible(nums,n,mid);
             if(sum<=threshold){
+                ans=mid;
                 h=mid-1;
             }
             else{l=mid+1;}
         }
-        return l;
+        return ans;
     }
 };
