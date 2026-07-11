@@ -15,10 +15,6 @@ public:
             int cnt=0,sum=0;
             for(int i=0;i<n;i++){
                 sum+=weights[i];
-                if(weights[i]>mid){
-                    l=mid+1;
-                    break;
-                }
                 if(sum>mid){
                     cnt++;
                     sum=weights[i];
