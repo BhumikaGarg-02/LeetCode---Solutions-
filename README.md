@@ -175,6 +175,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -217,5 +218,6 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
