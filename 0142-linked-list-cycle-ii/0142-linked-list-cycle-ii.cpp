@@ -17,15 +17,15 @@ public:
                 fast=fast->next->next;
                 slow=slow->next;
                 cnt++;
-            if(fast==slow){break;}
+            if(fast==slow){
+                fast=head;
+                while(fast!=slow){
+                    fast=fast->next;
+                    slow=slow->next;
+                }
+                return slow;
+            }
         }
-        if(fast!=slow){return NULL;}
-        ListNode * s2=fast;
-        ListNode * s1=head;
-        while(s1!=s2){
-            s1=s1->next;
-            s2=s2->next;
-        }
-        return s2;
+        return NULL;
     }
 };
