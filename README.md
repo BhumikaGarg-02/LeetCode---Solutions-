@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +233,5 @@
 | [0206-reverse-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
