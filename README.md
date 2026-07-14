@@ -75,6 +75,7 @@
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0414-third-maximum-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -184,6 +185,7 @@
 | [0229-majority-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
