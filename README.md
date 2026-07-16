@@ -35,6 +35,7 @@
 | [0205-isomorphic-strings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
