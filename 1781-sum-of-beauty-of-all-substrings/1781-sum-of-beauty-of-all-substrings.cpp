@@ -7,7 +7,7 @@ public:
             vector<int>mpp(26,0);
             for(int i=j;i<n;i++){
                 mpp[s[i]-'a']++;
-                int maxi=INT_MIN;
+                int maxi=0;
                 int mini=INT_MAX;
                 for(int k=0;k<=25;k++){
                     if(mpp[k]>0){
