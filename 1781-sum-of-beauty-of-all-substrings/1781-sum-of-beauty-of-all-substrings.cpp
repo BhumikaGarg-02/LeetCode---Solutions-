@@ -2,10 +2,9 @@ class Solution {
 public:
     int beautySum(string s) {
         int n=s.size();
-        int j=0;
         int cnt=0;
-        for(int j=0;j<=n-3;j++){
-            map<char,int>mpp;
+        for(int j=0;j<=n;j++){
+            unordered_map<char,int>mpp;
             for(int i=j;i<n;i++){
                 mpp[s[i]]++;
                 int maxi=INT_MIN;
