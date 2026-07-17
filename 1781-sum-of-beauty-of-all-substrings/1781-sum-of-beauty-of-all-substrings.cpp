@@ -4,14 +4,16 @@ public:
         int n=s.size();
         int cnt=0;
         for(int j=0;j<=n;j++){
-            unordered_map<char,int>mpp;
+            vector<int>mpp(26,0);
             for(int i=j;i<n;i++){
-                mpp[s[i]]++;
+                mpp[s[i]-'a']++;
                 int maxi=INT_MIN;
                 int mini=INT_MAX;
-                for(auto it:mpp){
-                    maxi=max(maxi,it.second);
-                    mini=min(mini,it.second);
+                for(int k=0;k<=25;k++){
+                    if(mpp[k]>0){
+                        maxi=max(maxi,mpp[k]);
+                        mini=min(mini,mpp[k]);
+                    }
                 }
                 cnt+=(maxi-mini);
             }
