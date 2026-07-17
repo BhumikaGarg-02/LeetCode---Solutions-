@@ -4,7 +4,7 @@ public:
         int n=s.size();
         int cnt=0;
         for(int j=0;j<=n;j++){
-            int mpp[26]={0};
+            vector<int>mpp(26,0);
             for(int i=j;i<n;i++){
                 mpp[s[i]-'a']++;
                 int maxi=INT_MIN;
