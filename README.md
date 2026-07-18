@@ -70,6 +70,7 @@
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
@@ -130,6 +131,7 @@
 | [0009-palindrome-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
