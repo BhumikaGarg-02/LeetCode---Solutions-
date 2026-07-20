@@ -21,7 +21,8 @@ private:
             temp=next;
             if(next!=NULL){next=next->next;}
         }
-        return prev;
+        head=prev;
+        return head;
     }
 public:
     ListNode* rotateRight(ListNode* head, int k) {
