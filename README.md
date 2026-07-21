@@ -142,6 +142,7 @@
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -308,6 +309,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
