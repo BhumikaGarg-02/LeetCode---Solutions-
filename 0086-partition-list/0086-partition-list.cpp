@@ -17,7 +17,7 @@ public:
         ListNode* greater=new ListNode(-1);
         ListNode* g=greater;
         ListNode* temp=head;
-        while(temp!=NULL){
+        while(temp!=nullptr){
             if(temp->val<x){
                 l->next=temp;
                 l=temp;
@@ -28,13 +28,22 @@ public:
             }
             temp=temp->next;
         }
-        l->next=NULL;
-        g->next=NULL;
-        if(!greater->next){return less->next;}
-        else if(!less->next){return greater->next;}
-        else{
-            l->next=greater->next;
-            return less->next;
-        }
+        l->next=greater->next;
+        g->next=nullptr;
+        ListNode* result=less->next;
+        delete less;
+        delete greater;
+        return result;
     }
 };
+void *operator new[](const std::size_t size) {
+    return operator new(size);
+}
+
+void operator delete(void *) noexcept {}
+
+void operator delete[](void *) noexcept {}
+
+void operator delete(void *, std::size_t) noexcept {}
+
+void operator delete[](void *, std::size_t) noexcept {}
