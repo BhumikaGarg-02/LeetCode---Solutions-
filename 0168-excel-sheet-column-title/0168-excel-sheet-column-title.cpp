@@ -6,10 +6,9 @@ public:
         while(num){
             num--;
             int rem=num%26;
-            ans.push_back('A'+rem);
+            ans=char('A'+rem)+ans;
             num/=26;
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
