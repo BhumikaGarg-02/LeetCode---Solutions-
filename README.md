@@ -47,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0344-reverse-string/) | Easy |
@@ -150,6 +151,7 @@
 | [0069-sqrtx](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
