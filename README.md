@@ -156,6 +156,7 @@
 | [0171-excel-sheet-column-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -169,6 +170,7 @@
 | [0020-valid-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Search
@@ -333,6 +335,7 @@
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
