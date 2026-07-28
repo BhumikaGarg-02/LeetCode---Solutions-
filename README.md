@@ -114,6 +114,7 @@
 | [0875-koko-eating-bananas](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -248,6 +249,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
