@@ -31,6 +31,7 @@
 | [0344-reverse-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## String
@@ -104,6 +105,7 @@
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -139,6 +141,7 @@
 | [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -191,6 +194,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -247,6 +251,7 @@
 | [0242-valid-anagram](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
