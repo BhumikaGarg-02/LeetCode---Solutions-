@@ -6,10 +6,11 @@ public:
             freq[c-'a']++;
         }
         int ans=0;
+        int press=1;
         sort(freq.rbegin(),freq.rend());
         for(int i=0;i<26;i++){
             if(freq[i]==0)break;
-            int press=(i/8)+1;
+            press=(i/8)+1;
             ans+=freq[i]*press;
         }
         return ans;
