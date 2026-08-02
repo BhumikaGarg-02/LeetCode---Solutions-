@@ -238,6 +238,7 @@
 | [0067-add-binary](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
 | [0461-hamming-distance](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0461-hamming-distance/) | Easy |
@@ -249,6 +250,7 @@
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0190-reverse-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
 ## Sorting
