@@ -223,6 +223,7 @@
 | [0118-pascals-triangle](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0338-counting-bits](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
@@ -242,6 +243,7 @@
 | [0191-number-of-1-bits](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0461-hamming-distance/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Divide and Conquer
