@@ -89,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0118-pascals-triangle/) | Easy |
@@ -235,6 +236,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
@@ -385,4 +387,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
