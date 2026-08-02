@@ -238,6 +238,7 @@
 | [0136-single-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0461-hamming-distance](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0461-hamming-distance/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
