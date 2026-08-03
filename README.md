@@ -175,6 +175,7 @@
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1922-count-good-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -303,6 +304,7 @@
 | [0342-power-of-four](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1922-count-good-numbers/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
