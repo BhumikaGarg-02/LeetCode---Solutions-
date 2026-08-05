@@ -171,6 +171,7 @@
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
@@ -304,6 +305,7 @@
 | [0206-reverse-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
