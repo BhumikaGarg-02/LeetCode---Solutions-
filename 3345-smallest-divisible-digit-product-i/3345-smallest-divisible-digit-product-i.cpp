@@ -8,6 +8,7 @@ public:
             while(temp){
                 int dig=temp%10;
                 p*=dig;
+                if(p==0)return n;
                 temp=temp/10;
             }
             if(p%t==0)return n;
