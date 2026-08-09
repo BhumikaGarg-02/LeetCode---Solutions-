@@ -121,6 +121,7 @@
 | [0704-binary-search](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -178,6 +179,7 @@
 | [0445-add-two-numbers-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1922-count-good-numbers/) | Medium |
@@ -235,6 +237,7 @@
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -319,6 +322,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +412,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,4 +433,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
