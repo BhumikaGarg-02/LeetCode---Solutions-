@@ -195,6 +195,7 @@
 | [0020-valid-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -446,8 +447,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
