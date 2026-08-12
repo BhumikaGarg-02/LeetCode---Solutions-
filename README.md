@@ -128,6 +128,7 @@
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -154,6 +155,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3731-find-missing-elements/) | Easy |
@@ -415,6 +417,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
