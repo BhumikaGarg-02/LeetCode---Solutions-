@@ -13,9 +13,10 @@ public:
             }
             else {
                 maxi=max(maxi,i-start);
+                while(start<=i && mpp[nums[i]]+1>k){
                 mpp[nums[start]]--;
                 start++;
-                
+            }
             }
         }
         maxi=max(maxi,i-start);
