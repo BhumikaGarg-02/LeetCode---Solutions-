@@ -61,6 +61,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -128,6 +129,7 @@
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3731-find-missing-elements/) | Easy |
@@ -358,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
