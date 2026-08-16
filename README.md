@@ -132,6 +132,7 @@
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -196,6 +197,7 @@
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1922-count-good-numbers/) | Medium |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Trie
@@ -318,6 +320,7 @@
 | [0229-majority-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -385,6 +388,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -438,6 +442,7 @@
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,11 +468,13 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +489,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
