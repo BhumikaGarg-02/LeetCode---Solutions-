@@ -130,6 +130,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1563-stone-game-v](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
@@ -195,6 +196,7 @@
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
@@ -258,6 +260,7 @@
 | [0509-fibonacci-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -442,6 +445,7 @@
 | [0486-predict-the-winner](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
