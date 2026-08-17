@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -85,6 +86,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0054-spiral-matrix/) | Medium |
@@ -210,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -249,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0118-pascals-triangle/) | Easy |
@@ -501,6 +505,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
