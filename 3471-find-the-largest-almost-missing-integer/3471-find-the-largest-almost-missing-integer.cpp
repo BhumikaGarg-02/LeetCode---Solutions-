@@ -1,45 +1,34 @@
 class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
-        int n = nums.size();
-        
-        // Case 1: k equals the length of the array
-        // Only 1 subarray of size k exists, so every element appears in exactly 1 subarray.
-        if (k == n) {
-            return *std::max_element(nums.begin(), nums.end());
-        }
-        
-        // Case 2: k == 1
-        // An element appears in exactly 1 subarray iff its overall frequency is 1.
-        if (k == 1) {
-            std::unordered_map<int, int> freq;
-            for (int num : nums) {
-                freq[num]++;
+        int n=nums.size();
+        unordered_map<int,int>mpp;
+        int maxi=-1;
+        if(k==n){
+            for(int i=0;i<n;i++){
+                maxi=max(maxi,nums[i]);
             }
-            int ans = -1;
-            for (const auto& [num, count] : freq) {
-                if (count == 1) {
-                    ans = std::max(ans, num);
+            return maxi;
+        }
+        if(k==1){
+            for(int i=0;i<n;i++){
+                mpp[nums[i]]++;
+            }
+            for(auto it:mpp){
+                if(it.second==1){
+                    maxi=max(maxi,it.first);
                 }
             }
-            return ans;
+            return maxi;
         }
-        
-        // Case 3: 1 < k < n
-        // Only nums[0] and nums[n-1] can appear in exactly 1 subarray of size k.
-        int ans = -1;
-        
-        // Check nums[0]
-        if (std::count(nums.begin(), nums.end(), nums[0]) == 1) {
-            ans = std::max(ans, nums[0]);
+        for(int i=0;i<n;i++){
+            mpp[nums[i]]++;
         }
-        
-        // Check nums[n-1]
-        if (std::count(nums.begin(), nums.end(), nums[n-1]) == 1) {
-            ans = std::max(ans, nums[n-1]);
+        if(mpp[nums[0]]!=1 && mpp[nums[n-1]]!=1)return -1;
+        else if(mpp[nums[0]]==1 && mpp[nums[n-1]]==1){
+            return max(nums[0],nums[n-1]);
         }
-        
-        return ans;
+        else if(mpp[nums[0]]==1)return nums[0];
+        else return nums[n-1];
     }
-    
 };
