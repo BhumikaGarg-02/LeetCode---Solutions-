@@ -16,6 +16,7 @@ private:
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>result;
+        sort(candidates.begin(),candidates.end());
         int n=candidates.size();
         vector<int>current;
         ans(current,candidates,0,n,0,target,result);
