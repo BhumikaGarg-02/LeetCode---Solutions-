@@ -87,6 +87,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0053-maximum-subarray/) | Medium |
@@ -459,6 +460,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0078-subsets/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
