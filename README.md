@@ -131,6 +131,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -168,6 +169,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -290,6 +292,7 @@
 | [0338-counting-bits](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0461-hamming-distance/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
@@ -399,6 +402,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
