@@ -143,6 +143,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3731-find-missing-elements/) | Easy |
@@ -210,6 +211,7 @@
 | [1922-count-good-numbers](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +298,7 @@
 | [0461-hamming-distance](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0461-hamming-distance/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -525,4 +529,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0022-generate-parentheses/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
