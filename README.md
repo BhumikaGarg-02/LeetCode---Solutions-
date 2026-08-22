@@ -213,6 +213,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
