@@ -10,8 +10,8 @@ public:
         int end=0;
         for(int j=0;j<n;j++){
             if(s[j]=='1' && cnt<k){
-                cnt++;
-                if(cnt==k){
+                cnt++;}
+            if(cnt==k){
                     while (s[i] == '0') {
                     i++;
                      }
@@ -35,12 +35,9 @@ public:
                         start=i;
                         end=j;
                     }
-                    while(i<=j && cnt==k){
-                        if(s[i]=='1')cnt--;
-                        i++;
-                    }
-                }
-            }  
+                    cnt--;
+                    i++;
+            } 
         }
         if(mini==INT_MAX)return "";
         for(int i=start;i<=end;i++){
