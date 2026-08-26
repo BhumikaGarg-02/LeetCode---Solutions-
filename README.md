@@ -65,6 +65,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -468,6 +469,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Game Theory
