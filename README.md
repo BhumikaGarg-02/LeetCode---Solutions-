@@ -112,6 +112,7 @@
 | [0162-find-peak-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0229-majority-element-ii/) | Medium |
@@ -489,6 +490,7 @@
 | [0039-combination-sum](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0216-combination-sum-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
