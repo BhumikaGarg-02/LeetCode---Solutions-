@@ -147,6 +147,7 @@
 | [1872-stone-game-viii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1872-stone-game-viii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -433,6 +434,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
