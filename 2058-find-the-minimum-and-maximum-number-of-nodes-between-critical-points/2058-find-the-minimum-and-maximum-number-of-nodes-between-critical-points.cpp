@@ -26,20 +26,12 @@ public:
             next=next->next;
         }
         if(ans.size()==0 || ans.size()==1)return{-1,-1};
-        int maxi=INT_MIN;
-        int secmaxi=maxi;
         int diff=INT_MAX;
-        int mini=INT_MAX;
-        for(int i=0;i<ans.size()-1;i++){
+        int n=ans.size();
+        for(int i=0;i<n-1;i++){
             diff=min(ans[i+1]-ans[i],diff);
-            mini=min(ans[i],mini);
-            if(ans[i]>maxi){
-                secmaxi=maxi;
-                maxi=ans[i];
-            }
         }
-        maxi=max(maxi,ans[ans.size()-1]);
-        mini=min(ans[ans.size()-1],mini);
-        return{diff,maxi-mini};
+        int maxi=ans[n-1]-ans[0];
+        return{diff,maxi};
     }
 };
