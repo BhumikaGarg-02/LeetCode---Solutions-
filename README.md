@@ -159,6 +159,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
