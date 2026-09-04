@@ -160,6 +160,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +393,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/BhumikaGarg-02/LeetCode---Solutions-/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
